@@ -1,0 +1,33 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Some NPM test",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingmardrewing/prototyping.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ingmar Drewing <ingmar@drewing.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ingmardrewing/prototyping/issues"
+  },
+  "homepage": "https://github.com/ingmardrewing/prototyping#readme"
+}
